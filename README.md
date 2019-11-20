@@ -2,8 +2,8 @@
 
 ## Initialize
 ```
-git clone https://github.com/ALPHACamp/forum-express.git
-cd forum-express
+git clone https://github.com/ALPHACamp/vueBackend.git
+cd vueBackend
 npm install
 npx sequelize db:migrate
 npx sequelize db:seed:all
