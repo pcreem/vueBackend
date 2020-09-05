@@ -2,7 +2,7 @@
 
 ## Initialize
 ```
-git clone https://github.com/ALPHACamp/vueBackend.git
+git clone https://github.com/pcreem/vueBackend.git
 cd vueBackend
 npm install
 npx sequelize db:migrate
